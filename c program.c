@@ -1,4 +1,3 @@
-# my-wish
 #include<stdio.h>
 int main()
 {
